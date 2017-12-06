@@ -1,0 +1,4 @@
+/media/luis/DATA/Dropbox/Disciplinas MIEM/PARI/Aulas/Aula12/Aula/luisricardo_pari2017/build/CMakeFiles/edit_cache.dir
+/media/luis/DATA/Dropbox/Disciplinas MIEM/PARI/Aulas/Aula12/Aula/luisricardo_pari2017/build/CMakeFiles/rebuild_cache.dir
+/media/luis/DATA/Dropbox/Disciplinas MIEM/PARI/Aulas/Aula12/Aula/luisricardo_pari2017/build/CMakeFiles/cpfiles.dir
+/media/luis/DATA/Dropbox/Disciplinas MIEM/PARI/Aulas/Aula12/Aula/luisricardo_pari2017/build/CMakeFiles/hello.dir
